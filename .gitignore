@@ -1,1 +1,5 @@
 keys.txt
+accounts.json
+vendors.json
+xerocompany.py
+.DS_Store
